@@ -196,9 +196,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **Project Link**: [https://github.com/yourusername/husher](https://github.com/yourusername/husher)
+- **Author**: [Biruk Yonas - Buka](https://github.com/buka-pitch)
+- **Email**: birukyonas331@gmail.com
+- **Project Link**: [https://github.com/yourusername/encrypter](https://github.com/yourusername/encrypter)
 
 ---
 
