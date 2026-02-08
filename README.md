@@ -201,7 +201,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Project Link**: [https://github.com/yourusername/encrypter](https://github.com/yourusername/encrypter)
 
 ---
-
-<div align="center">
-  Made with 🔐 by [Your Name]
-</div>
