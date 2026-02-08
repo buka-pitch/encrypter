@@ -1,0 +1,39 @@
+# --- Rust/Cargo ---
+/src-tauri/target/
+/src-tauri/Cargo.lock
+# Keep Cargo.lock if you are building an end-user application, 
+# but many Tauri devs ignore it in the early stages.
+
+# --- Node/Frontend ---
+node_modules/
+dist/
+dist-tauri/
+.eslintcache
+.stylelintcache
+*.local
+.env
+.env.*
+
+# --- Tauri Specific ---
+src-tauri/dump.rdb
+src-tauri/*.log
+# If you use the sidecar feature, you might want to ignore the binaries
+src-tauri/binaries/*
+!src-tauri/binaries/.gitkeep
+
+# --- IDEs & OS ---
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# --- Mobile (If using Tauri v2) ---
+gen/
+/src-tauri/gen/
